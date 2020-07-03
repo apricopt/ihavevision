@@ -1668,7 +1668,7 @@ td {
 .cta {
   display: inline-block;
   text-decoration: none !important;
-  border: 3px inset rgba(255, 255, 255, 0.822);
+  border: 1px inset rgba(9, 211, 177, 0.822);
   line-height: 1;
   color: #fff;
   padding: 1.2rem 1rem 1rem;
@@ -4572,7 +4572,7 @@ main.default-template section {
   text-align: center;
 }
 .liste-postes > .contenu {
-  margin-bottom: 3.75rem;
+  margin-bottom: 0.75rem;
 }
 .liste-postes > .contenu h1::before {
   left: 50%;
@@ -4599,16 +4599,17 @@ main.default-template section {
 .liste-postes .postes .titre {
   text-align: left;
   padding-left: 0;
-  width: 40%;
+  width: 20%;
 }
 .liste-postes .postes .localisation {
   width: 15%;
 }
 .liste-postes .postes .type {
-  width: 15%;
+  width: 35%;
 }
 .liste-postes .postes .departement {
   width: 15%;
+  background-color: transparent;
 }
 .liste-postes .postes .postuler {
   width: 15%;
