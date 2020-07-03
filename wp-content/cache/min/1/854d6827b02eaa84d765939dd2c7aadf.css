@@ -1668,7 +1668,7 @@ td {
 .cta {
   display: inline-block;
   text-decoration: none !important;
-  border: 1px inset rgba(9, 211, 177, 0.822);
+  border: 2px inset rgba(255, 255, 255, 0.822);
   line-height: 1;
   color: #fff;
   padding: 1.2rem 1rem 1rem;
